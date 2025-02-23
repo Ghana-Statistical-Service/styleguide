@@ -1,7 +1,4 @@
 ---
-icon: hand-wave
-cover: .gitbook/assets/images.jpeg
-coverY: -154.37355371900827
 ---
 
 # Welcome
