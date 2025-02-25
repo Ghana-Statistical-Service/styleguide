@@ -3,7 +3,6 @@ icon: wreath-laurel
 ---
 
 # Writing Overview
-<h1>Writing Style</h1>
 
 ### 1.1.      Tone
 
