@@ -1,4 +1,7 @@
 ---
+cover: >-
+  https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxkYXRhfGVufDB8fHx8MTc0MDY1MzM3OXww&ixlib=rb-4.0.3&q=85
+coverY: -155
 ---
 
 # Welcome
