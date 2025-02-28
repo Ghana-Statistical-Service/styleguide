@@ -12,6 +12,3 @@ icon: palette
 
 
 
-
-
-Tpye of Onwe
