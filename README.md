@@ -1,7 +1,7 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxkYXRhfGVufDB8fHx8MTc0MDY1MzM3OXww&ixlib=rb-4.0.3&q=85
-coverY: -155
+  https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHx2aXN1YWxpc2F0aW9ufGVufDB8fHx8MTc0MDcwNTk3M3ww&ixlib=rb-4.0.3&q=85
+coverY: 81
 ---
 
 # Welcome
