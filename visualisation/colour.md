@@ -14,7 +14,7 @@ icon: palette
 
 ### Sex
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Male</strong></td><td>hex: #206095</td><td>rgb:</td><td><em>lapis lazuli blue</em></td><td><a href="../.gitbook/assets/Slide2.PNG">Slide2.PNG</a></td></tr><tr><td><strong>Female</strong></td><td>hex: #F66068</td><td>rgb: </td><td><em>Salmon</em></td><td><a href="../.gitbook/assets/Slide3.PNG">Slide3.PNG</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><strong>Female</strong></td><td align="center">hex: #F66068</td><td align="center">rgb: </td><td align="center"><em>Salmon</em></td><td><a href="../.gitbook/assets/Slide3.PNG">Slide3.PNG</a></td></tr></tbody></table>
 
 
 
