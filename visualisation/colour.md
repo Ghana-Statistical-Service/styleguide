@@ -6,7 +6,11 @@ icon: palette
 
 ### Locality type
 
+***
+
 <table data-view="cards" data-full-width="true"><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><strong>National</strong></td><td align="center">hex: <strong>#27A0CC</strong></td><td align="center"><em>Sardinia beaches</em></td><td><a href="../.gitbook/assets/Slide1.PNG">Slide1.PNG</a></td></tr><tr><td align="center"><strong>Urban</strong></td><td align="center">hex: <strong>#871A5B</strong></td><td align="center"><em>French plum</em></td><td><a href="../.gitbook/assets/Slide4.PNG">Slide4.PNG</a></td></tr><tr><td align="center">Rur<strong>al</strong></td><td align="center">hex: <strong>#22D0B6</strong></td><td align="center"><em>Blue martina</em></td><td><a href="../.gitbook/assets/Slide5.PNG">Slide5.PNG</a></td></tr></tbody></table>
+
+***
 
 ### Sex
 
