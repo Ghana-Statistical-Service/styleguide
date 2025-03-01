@@ -24,6 +24,6 @@
   * [Python](visualisation/templates-and-code/python.md)
   * [Excel](visualisation/templates-and-code/excel.md)
 
-***
+## Concepts and Standards
 
-* [Definition of concepts](definition-of-concepts.md)
+* [Definition of concepts](concepts-and-standards/definition-of-concepts.md)
