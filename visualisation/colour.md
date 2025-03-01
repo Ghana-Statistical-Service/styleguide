@@ -36,7 +36,7 @@ icon: palette
 
 ### Purpose of Visit
 
-<table data-view="cards" data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td><strong>Business and professional</strong></td></tr><tr><td><strong>Cultural / Festivals</strong></td></tr><tr><td><strong>Health</strong></td></tr><tr><td><strong>Shopping</strong></td></tr><tr><td><strong>Transit</strong></td></tr><tr><td><strong>Vacation</strong></td></tr><tr><td><strong>Visiting friends and family</strong></td></tr><tr><td><strong>Other</strong></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Business and professional</strong></td><td><em><code>hex</code></em><strong>#264478</strong></td></tr><tr><td><strong>Cultural / Festivals</strong></td><td></td></tr><tr><td><strong>Health</strong></td><td></td></tr><tr><td><strong>Shopping</strong></td><td></td></tr><tr><td><strong>Transit</strong></td><td><em><code>hex</code></em><strong>#70AD47</strong></td></tr><tr><td><strong>Vacation</strong></td><td></td></tr><tr><td><strong>Visiting friends and family</strong></td><td></td></tr><tr><td><strong>Other</strong></td><td></td></tr></tbody></table>
 
 ***
 

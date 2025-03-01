@@ -15,6 +15,10 @@
 * [Writing Overview](writing-style/writing-overview.md)
 * [Highlights](writing-style/highlights.md)
 
+***
+
+* [Templates](templates.md)
+
 ## Visualisation
 
 * [Colour](visualisation/colour.md)
