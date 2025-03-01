@@ -6,7 +6,7 @@ icon: palette
 
 ### Locality type
 
-<table data-view="cards" data-full-width="true"><thead><tr><th align="right"></th><th></th><th align="right"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="right"><strong>National</strong></td><td><em><code>hex:</code></em> <strong>#27A0CC</strong></td><td align="right"><em>Sardinia beaches</em></td><td><a href="../.gitbook/assets/Slide1.PNG">Slide1.PNG</a></td></tr><tr><td align="right"><strong>Urban</strong></td><td><em><code>hex:</code></em> <strong>#871A5B</strong></td><td align="right"><em>French plum</em></td><td><a href="../.gitbook/assets/Slide4.PNG">Slide4.PNG</a></td></tr><tr><td align="right">Rur<strong>al</strong></td><td><em><code>hex:</code></em> <strong>#22D0B6</strong></td><td align="right"><em>Blue martina</em></td><td><a href="../.gitbook/assets/Slide5.PNG">Slide5.PNG</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>National</strong></td><td><em><code>hex:</code></em> <strong>#27A0CC</strong></td><td><em>Sardinia beaches</em></td><td><a href="../.gitbook/assets/Slide1.PNG">Slide1.PNG</a></td></tr><tr><td><strong>Urban</strong></td><td><em><code>hex:</code></em> <strong>#871A5B</strong></td><td><em>French plum</em></td><td><a href="../.gitbook/assets/Slide4.PNG">Slide4.PNG</a></td></tr><tr><td>Rur<strong>al</strong></td><td><em><code>hex:</code></em> <strong>#22D0B6</strong></td><td><em>Blue martina</em></td><td><a href="../.gitbook/assets/Slide5.PNG">Slide5.PNG</a></td></tr></tbody></table>
 
 ***
 
