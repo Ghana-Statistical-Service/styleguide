@@ -40,7 +40,11 @@ icon: palette
 
 ***
 
+Type of Tour
 
+
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Own Arrangement</td><td><em><code>hex</code></em> #008080</td><td><em><code>Teal</code></em></td></tr><tr><td>Package Tour</td><td><em><code>hex</code></em> #FF7F50</td><td><em><code>Warm Orange</code></em></td></tr></tbody></table>
 
 
 
