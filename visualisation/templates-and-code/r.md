@@ -152,15 +152,9 @@ Western_North_color_code <- "#B173A0"
 
 ***
 
-## Chart
+## Bar charts
 
-***
-
-### Bar charts
-
-#### One Colour Bar Chart
-
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+### One Colour Bar Chart
 
 <details>
 
@@ -195,6 +189,8 @@ n_chopbars_df %>%
 
 </details>
 
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+
 <details>
 
 <summary>One Color (Rotated) with labels</summary>
@@ -213,7 +209,7 @@ n_chopbars_df %>%
 
 ***
 
-### Line Charts
+## Line Charts
 
 
 
