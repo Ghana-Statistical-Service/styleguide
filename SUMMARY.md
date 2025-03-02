@@ -24,9 +24,9 @@
 * [Colour](visualisation/colour.md)
 * [Chart Types](visualisation/chart-types.md)
 * [Templates and code](visualisation/templates-and-code/README.md)
+  * [Excel](visualisation/templates-and-code/excel.md)
   * [R](visualisation/templates-and-code/r.md)
   * [Python](visualisation/templates-and-code/python.md)
-  * [Excel](visualisation/templates-and-code/excel.md)
 
 ## Concepts and Standards
 
