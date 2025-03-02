@@ -31,3 +31,7 @@
 ## Concepts and Standards
 
 * [Definition of concepts](concepts-and-standards/definition-of-concepts.md)
+
+***
+
+* [Contributors](contributors.md)
