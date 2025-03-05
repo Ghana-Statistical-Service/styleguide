@@ -61,6 +61,6 @@ As mandated by the **Statistical Service Act (Act 1003)** and the **Data Protect
 
 For questions regarding the **Brand Guide**, data usage, or compliance, contact:
 
-📍 **\[Organization Name]**\
-📧 Email: \[official email]\
-📞 Phone: \[contact number]
+📍 Ghana Statistical Service\
+📧 Email: info@statsghana.gov.gh\
+📞 Phone: +233-30-396-1833
