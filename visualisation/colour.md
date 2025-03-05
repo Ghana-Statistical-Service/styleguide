@@ -48,6 +48,18 @@ Type of Tour
 
 
 
+### Expenditure
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Resting Place</strong> 🏨</td><td>#87CEEB</td><td>Soft Blue</td></tr><tr><td><strong>Food &#x26; Beverage</strong> 🍽️</td><td>#D32F2F</td><td>Warm Red</td></tr><tr><td><strong>Transport</strong> 🚆</td><td>#0055A4</td><td>Deep Blue</td></tr><tr><td><strong>Recreation &#x26; Culture</strong> 🎭</td><td>#8A2BE2</td><td>Vibrant Purple</td></tr><tr><td><strong>Sport Activity</strong> 🏅</td><td>#228B22</td><td>Energetic Green</td></tr><tr><td><strong>Shopping</strong> 🛍️</td><td>#FF1493</td><td>Bright Magenta</td></tr></tbody></table>
+
+
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
 
 
 [^1]: 
