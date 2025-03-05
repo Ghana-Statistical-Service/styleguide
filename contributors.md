@@ -1,24 +1,4 @@
 # Contributors
 
-* [_Felix Adjei_](https://www.linkedin.com/in/felix-adjei-41b59744/) _-  -_&#x20;
-* _-  -_&#x20;
-* _-  -_&#x20;
-* &#x20; _- 2021 -_&#x20;
-* &#x20;_-_&#x20;
-* \-&#x20;
-
-
-
-| Name                                                                                                                     | Contribution                            | Year range    |
-| ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- | ------------- |
-| [_Felix Adjei_](https://www.linkedin.com/in/felix-adjei-41b59744/)                                                       | _Colours \| Logo \|  design_            | _2021 - date_ |
-| David Bessah                                                                                                             | _Writing Structure \| Style formatting_ | 2025          |
-| Regina Arcton                                                                                                            | _Writing Structure \| Style formatting_ | 2025 -        |
-| Stephen Acheampong                                                                                                       | Imagery and Photography                 | 2022 -        |
-| Jemima                                                                                                                   | Social Media and Application            | 2025          |
-| [_Selaseh Akaho_](https://www.linkedin.com/in/selaseh/)                                                                  | _Visualisation \| Colours_              | 2021 - date   |
-| [_Dr Pearl Kyei_](https://www.linkedin.com/in/pearl-kyei-a26409200/)                                                     | _Writing Structure \| Style formatting_ | _2021 - 2024_ |
-| [_Ing. Godfred Fiifi Boadi_](https://www.linkedin.com/in/ing-godfred-fiifi-boadi-59779010a/overlay/about-this-profile/)  | _Style formatting_                      | _2021_        |
-| [_Dr. Faustina Frempong Ainguah_](https://www.linkedin.com/in/faustina-frempong-ainguah-4b960099/)                       | _Presentation format and Style_         | 2021-         |
-| [_Prof. Samuel Annim_](https://www.linkedin.com/in/samuel-annim-446b8382/)                                               | Highlights / Structure / writing style  | 2021 -        |
+<table><thead><tr><th>Name</th><th width="312">Contribution</th><th>Year range</th></tr></thead><tbody><tr><td>David Bessah</td><td><em>Writing Structure | Style formatting</em></td><td>2025</td></tr><tr><td><a href="https://www.linkedin.com/in/regina-arcton-75427921a/">Regina Arcton</a></td><td><em>Writing Structure | Style formatting</em></td><td>2025 -</td></tr><tr><td>St<a href="https://www.linkedin.com/in/stephen-acheampong-3a0201148/">ephen Acheampong</a></td><td>Imagery and Photography</td><td>2022 -</td></tr><tr><td>J<a href="https://www.linkedin.com/in/jemima-gyamesi-aa468a131/">emima Gyamesi</a></td><td>Social Media and Application</td><td>2025</td></tr><tr><td><a href="https://www.linkedin.com/in/felix-adjei-41b59744/"><em>Felix Adjei</em></a> </td><td><em>Colours | Logo |  design</em></td><td><em>2021 - date</em></td></tr><tr><td><a href="https://www.linkedin.com/in/selaseh/"><em>Selaseh Akaho</em></a> </td><td><em>Visualisation | Colours</em></td><td>2021 - date</td></tr><tr><td><a href="https://www.linkedin.com/in/samuel-annim-446b8382/"><em>Prof. Samuel Annim</em></a> </td><td>Highlights / Structure / writing style</td><td>2021 -</td></tr><tr><td><a href="https://www.linkedin.com/in/faustina-frempong-ainguah-4b960099/"><em>Dr. Faustina Frempong-Ainguah</em></a></td><td><em>Presentation format and Style</em></td><td>2021-</td></tr><tr><td><a href="https://www.linkedin.com/in/pearl-kyei-a26409200/"><em>Dr Pearl Kyei</em></a> </td><td><em>Writing Structure | Style formatting</em></td><td><em>2021 - 2024</em></td></tr><tr><td><a href="https://www.linkedin.com/in/ing-godfred-fiifi-boadi-59779010a/overlay/about-this-profile/"><em>Ing. Godfred Fiifi Boadi</em></a> </td><td><em>Style formatting</em></td><td><em>2021</em> </td></tr></tbody></table>
 
