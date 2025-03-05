@@ -55,8 +55,6 @@ As mandated by the **Statistical Service Act (Act 1003)** and the **Data Protect
 * Data collection, analysis, and reporting must adhere to **international classifications and methodologies**.
 * Collaboration with global institutions enhances consistency in statistical reporting.
 
-###
-
 ### **10. Contact & Legal Information**
 
 For questions regarding the **Brand Guide**, data usage, or compliance, contact:
