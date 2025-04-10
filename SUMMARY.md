@@ -7,6 +7,7 @@
   * [Typography](brand-overview/typography.md)
   * [Voice & Tone](brand-overview/voice-and-tone.md)
   * [Imagery & Photography](brand-overview/imagery-and-photography.md)
+  * [Digital Communication](brand-overview/digital-communication.md)
   * [Application Examples](brand-overview/application-examples.md)
   * [Legal & Trademark Information](brand-overview/legal-and-trademark-information.md)
 
@@ -14,9 +15,18 @@
 
 * [Writing Overview](writing-style/writing-overview.md)
 * [Highlights](writing-style/highlights.md)
+* [General Reports](writing-style/general-reports.md)
 
 ***
 
+* [Thematic Reports](thematic-reports.md)
+* [Thematic Briefs](thematic-briefs.md)
+* [Statistical Bulletins](statistical-bulletins.md)
+* [Monthly press release](monthly-press-release.md)
+* [Newsletter](newsletter.md)
+* [Policy Briefs](policy-briefs.md)
+* [Factsheet](factsheet.md)
+* [Powerpoint](powerpoint.md)
 * [Templates](templates.md)
 
 ## Visualisation
