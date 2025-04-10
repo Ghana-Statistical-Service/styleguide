@@ -20,13 +20,13 @@ The standard header for monthly press releases is provided below.
 
 &#x20;
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.1.2.   Serial number
 
 Press releases should be numbered based on the month and year they are released. CPI and PPI releases will be 01 and 02 respectively for each month so monthly press release numbers must start from 03. The serial number should be right aligned and the month and year italicised. An example is shown below:
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### 1.1.3.   Main title and sub-title
 

@@ -20,7 +20,7 @@ Bulletins should include the elements outlined below:
 
 2\.    Highlights – this section should present the statistics in charts with the highlights written underneath the chart as illustrated below:
 
-<div align="left" data-full-width="false"><figure><img src=".gitbook/assets/image.png" alt="" width="273"><figcaption></figcaption></figure></div>
+<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/image.png" alt="" width="273"><figcaption></figcaption></figure></div>
 
 3\.    Concepts and definitions (if applicable) – concepts and indicators presented in the highlights that require definitions should be explained in this section; and presented in alphabetical order.
 

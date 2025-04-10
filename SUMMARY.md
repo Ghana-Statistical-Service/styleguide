@@ -15,28 +15,30 @@
 
 * [Writing Overview](writing-style/writing-overview.md)
 * [Highlights](writing-style/highlights.md)
-* [General Reports](writing-style/general-reports.md)
+* [Structure](writing-style/structure/README.md)
+  * [General Reports](writing-style/structure/general-reports.md)
+  * [Thematic Reports](writing-style/structure/thematic-reports.md)
+  * [Thematic Briefs](writing-style/structure/thematic-briefs.md)
+  * [Statistical Bulletins](writing-style/structure/statistical-bulletins.md)
+  * [Policy Briefs](writing-style/structure/policy-briefs.md)
+  * [Factsheet](writing-style/structure/factsheet.md)
+  * [Monthly press release](writing-style/structure/monthly-press-release.md)
+  * [Newsletter](writing-style/structure/newsletter.md)
+  * [Powerpoint](writing-style/structure/powerpoint.md)
 
-***
+## Templates
 
-* [Thematic Reports](thematic-reports.md)
-* [Thematic Briefs](thematic-briefs.md)
-* [Statistical Bulletins](statistical-bulletins.md)
-* [Monthly press release](monthly-press-release.md)
-* [Newsletter](newsletter.md)
-* [Policy Briefs](policy-briefs.md)
-* [Factsheet](factsheet.md)
-* [Powerpoint](powerpoint.md)
-* [Templates](templates.md)
+* [Reports](templates/reports.md)
+* [Social Media](templates/social-media.md)
+* [Templates and code](templates/templates-and-code/README.md)
+  * [Excel](templates/templates-and-code/excel.md)
+  * [R](templates/templates-and-code/r.md)
+  * [Python](templates/templates-and-code/python.md)
 
 ## Visualisation
 
 * [Colour](visualisation/colour.md)
 * [Chart Types](visualisation/chart-types.md)
-* [Templates and code](visualisation/templates-and-code/README.md)
-  * [Excel](visualisation/templates-and-code/excel.md)
-  * [R](visualisation/templates-and-code/r.md)
-  * [Python](visualisation/templates-and-code/python.md)
 
 ## Concepts and Standards
 
