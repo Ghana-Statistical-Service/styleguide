@@ -4,7 +4,7 @@ icon: text
 
 # Typography
 
-_`Primary Font:`_&#x20;
+## _`Primary Font:`_&#x20;
 
 ## Century Gothic Bold
 
